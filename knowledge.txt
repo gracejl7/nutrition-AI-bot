@@ -1,0 +1,146 @@
+# Nutrition Chatbot Knowledge Base
+
+This document equips a nutrition-focused chatbot with core reference knowledge across three domains: **vitamins in food**, **meal prep practices**, and **approximate calorie information**. Use it as a grounding reference when answering user questions — always remind users this is general information, not medical advice, and to consult a registered dietitian or doctor for personalized guidance.
+
+---
+
+## 1. Vitamins in Food
+
+Vitamins are grouped into two categories: **fat-soluble** (stored in body fat and liver, absorbed with dietary fat) and **water-soluble** (not stored in large amounts, need regular replenishing).
+
+### 1.1 Fat-Soluble Vitamins
+
+| Vitamin | Key Roles | Top Food Sources | Deficiency Signs |
+|---|---|---|---|
+| **A** (retinol/beta-carotene) | Vision, immune function, skin health | Liver, sweet potatoes, carrots, spinach, kale, eggs, mango | Night blindness, dry skin, weakened immunity |
+| **D** (calciferol) | Calcium absorption, bone health, immune support | Sunlight exposure, fatty fish (salmon, mackerel), egg yolks, fortified milk/cereal | Bone pain, muscle weakness, rickets (children) |
+| **E** (tocopherol) | Antioxidant, skin and eye health | Almonds, sunflower seeds, spinach, avocado, vegetable oils | Muscle weakness, vision problems (rare) |
+| **K** | Blood clotting, bone metabolism | Kale, spinach, broccoli, Brussels sprouts, fermented foods (natto) | Easy bruising/bleeding |
+
+### 1.2 Water-Soluble Vitamins
+
+| Vitamin | Key Roles | Top Food Sources | Deficiency Signs |
+|---|---|---|---|
+| **B1 (Thiamine)** | Energy metabolism, nerve function | Whole grains, pork, legumes, sunflower seeds | Fatigue, irritability, nerve issues |
+| **B2 (Riboflavin)** | Energy production, cell growth | Dairy, eggs, lean meats, almonds, leafy greens | Cracked lips, sore throat |
+| **B3 (Niacin)** | Energy metabolism, skin/nerve health | Chicken, tuna, peanuts, brown rice, mushrooms | Fatigue, digestive issues |
+| **B6 (Pyridoxine)** | Protein metabolism, brain development | Chickpeas, poultry, potatoes, bananas, fish | Irritability, weakened immunity |
+| **B9 (Folate)** | DNA synthesis, red blood cell formation | Leafy greens, beans, asparagus, citrus, fortified grains | Anemia; critical in pregnancy for fetal development |
+| **B12 (Cobalamin)** | Nerve function, red blood cell formation | Meat, fish, dairy, eggs, fortified nutritional yeast | Fatigue, numbness, memory issues (common in vegans without supplementation) |
+| **C (Ascorbic acid)** | Immune function, collagen production, antioxidant | Citrus fruits, bell peppers, strawberries, broccoli, kiwi | Slow wound healing, bleeding gums, fatigue |
+
+### 1.3 Key Minerals Worth Knowing (often paired with vitamin questions)
+- **Iron** — red meat, lentils, spinach, fortified cereals (pairs with vitamin C for better absorption)
+- **Calcium** — dairy, fortified plant milks, leafy greens, tofu
+- **Magnesium** — nuts, seeds, whole grains, dark chocolate
+- **Potassium** — bananas, potatoes, beans, yogurt
+- **Zinc** — meat, shellfish, legumes, seeds
+
+### 1.4 Practical Tips for Answering Vitamin Questions
+- Fat-soluble vitamins are better absorbed when eaten with a source of fat (e.g., add olive oil to a salad with carrots).
+- Vitamin C enhances iron absorption from plant sources — pair spinach with citrus or bell peppers.
+- Cooking can reduce water-soluble vitamin content (especially B and C); steaming or microwaving preserves more than boiling.
+- People following vegan diets should pay special attention to B12, iron, zinc, and vitamin D, since these are less abundant or less bioavailable in plant foods.
+
+---
+
+## 2. Meal Prep Guidance
+
+### 2.1 Core Principles
+1. **Plan before you shop** — decide on 3–5 recipes for the week to avoid food waste and impulse buys.
+2. **Batch cook staples** — grains (rice, quinoa), proteins (chicken, tofu, beans), and roasted vegetables can be made in bulk and mixed into different meals.
+3. **Balance the plate** — aim for roughly ¼ protein, ¼ whole grains/starch, ½ vegetables per meal for a balanced macro profile.
+4. **Prep components, not just full meals** — having cooked components (protein, grain, sauce, veg) ready lets you build varied meals quickly instead of eating the same dish all week.
+
+### 2.2 Step-by-Step Meal Prep Workflow
+1. **Choose recipes** that share overlapping ingredients to minimize shopping and waste.
+2. **Shop with a list**, organized by store section (produce, protein, dry goods).
+3. **Prep in batches by task**: wash and chop all vegetables at once, cook all grains at once, cook all proteins at once.
+4. **Portion into containers** — use clear, stackable containers; portion by meal or by macro to make grab-and-go easy.
+5. **Cool before sealing** — let hot food cool to room temperature (within 2 hours) before sealing and refrigerating to avoid condensation and bacterial growth.
+6. **Label with dates** so nothing gets forgotten in the back of the fridge.
+
+### 2.3 Storage & Food Safety Guidelines
+- **Refrigerator**: most cooked meals last **3–4 days**.
+- **Freezer**: most cooked meals last **2–3 months** without major quality loss; label with the date frozen.
+- **Reheating**: food should reach an internal temperature of **165°F (74°C)** when reheated.
+- Store raw proteins on the bottom shelf of the fridge to prevent cross-contamination drips.
+- Cooked rice should be cooled quickly and refrigerated within 1 hour — it carries higher bacterial risk (Bacillus cereus) if left at room temperature too long.
+
+### 2.4 Foods That Meal-Prep Well vs. Poorly
+**Prep well:** grains, beans/legumes, roasted or steamed vegetables, baked proteins, soups/stews, overnight oats, hard-boiled eggs.
+**Prep poorly (add fresh):** leafy salad greens (wilt), fried foods (lose crispness), avocado (browns quickly), delicate herbs.
+
+### 2.5 Sample Weekly Meal Prep Structure
+- **Sunday**: Cook 2 protein options, 1–2 grains, roast a large tray of mixed vegetables, make one sauce/dressing.
+- **Mid-week (Wednesday)**: Quick refresh — chop new fresh veggies or cook a second batch of a quick protein to keep flavors from getting monotonous.
+- **Grab-and-build**: Let users mix and match protein + grain + veg + sauce into bowls, wraps, or salads.
+
+---
+
+## 3. Approximate Calorie Information
+
+### 3.1 Calories per Gram (Macronutrients)
+| Macronutrient | Calories per gram |
+|---|---|
+| Carbohydrates | 4 kcal/g |
+| Protein | 4 kcal/g |
+| Fat | 9 kcal/g |
+| Alcohol | 7 kcal/g |
+
+### 3.2 Approximate Calories in Common Foods
+*(Values are approximate and vary by brand, preparation, and portion size — always encourage users to check specific labels for precision.)*
+
+**Proteins**
+- Chicken breast, cooked (100g): ~165 kcal
+- Salmon, cooked (100g): ~208 kcal
+- Egg, large (1): ~70 kcal
+- Tofu, firm (100g): ~145 kcal
+- Black beans, cooked (1 cup): ~227 kcal
+- Greek yogurt, plain (170g): ~100 kcal
+
+**Grains & Starches**
+- White rice, cooked (1 cup): ~205 kcal
+- Brown rice, cooked (1 cup): ~215 kcal
+- Quinoa, cooked (1 cup): ~222 kcal
+- Oats, dry (½ cup): ~150 kcal
+- Whole wheat bread (1 slice): ~80 kcal
+- Sweet potato, medium baked: ~103 kcal
+
+**Vegetables** (generally low-calorie, high-volume)
+- Broccoli, cooked (1 cup): ~55 kcal
+- Spinach, raw (1 cup): ~7 kcal
+- Carrots, raw (1 cup): ~50 kcal
+- Avocado (1 medium): ~240 kcal (higher due to healthy fat content)
+
+**Fruits**
+- Banana, medium: ~105 kcal
+- Apple, medium: ~95 kcal
+- Blueberries (1 cup): ~85 kcal
+- Orange, medium: ~62 kcal
+
+**Fats & Oils**
+- Olive oil (1 tbsp): ~120 kcal
+- Almonds (1 oz / ~23 nuts): ~165 kcal
+- Peanut butter (2 tbsp): ~190 kcal
+- Butter (1 tbsp): ~102 kcal
+
+### 3.3 General Daily Calorie Ranges (for context only)
+These are broad population averages, not prescriptions — individual needs vary by age, sex, weight, height, and activity level.
+- Adult women: roughly **1,600–2,400 kcal/day**
+- Adult men: roughly **2,000–3,000 kcal/day**
+- These ranges shift up with higher activity levels and down with more sedentary lifestyles.
+
+### 3.4 Guidance for the Chatbot When Discussing Calories
+- Always frame calorie numbers as **approximate estimates**, not exact values.
+- Avoid giving specific calorie targets or restrictive diet plans to any user who shows signs of disordered eating; instead, encourage speaking with a doctor or registered dietitian.
+- Emphasize food quality and nutrient density alongside calorie count — not all calories have equal nutritional value.
+- When helpful, connect calories back to the meal-prep and vitamin sections (e.g., "a batch of roasted vegetables adds volume and vitamins without many calories").
+
+---
+
+## 4. Chatbot Conversational Guidelines
+- Use this knowledge base to answer general nutrition questions clearly and practically.
+- Avoid diagnosing conditions or replacing professional medical/dietary advice — recommend a doctor or registered dietitian for personalized plans.
+- When numbers are involved (calories, vitamin amounts), communicate them as estimates and encourage checking specific food labels.
+- Keep meal prep advice practical and adaptable to different budgets, dietary restrictions (vegan, gluten-free, etc.), and skill levels.
