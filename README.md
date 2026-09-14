@@ -1,4 +1,5 @@
 A data-driven nutrition chatbot built using HuggingFace, Gradio, Sentence Transformers, and RAG
+Knowledge base was generated using Claude.
 This AI chatbot assists users with calorie management, meal preparation, and ingredient substitutions. 
 It features Meta Llama 3.3 70B Instruct Model through HuggingFace 
 It utilizes retrieval augmented generation (RAG) in order to utilize knowledge from the knowledge.txt file.
